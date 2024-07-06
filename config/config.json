@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Bian1907@",
+    "database": "testdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "dateStrings": true,
+      "typeCast": true,
+      "timezone": "+07:00"
+  },
+  "timezone": "+07:00"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "uu42yrnrehb2xqsx",
+    "password": "99v5Iw2SYzHpHUiJG3Tr",
+    "database": "bug0usy6grg9homkxqes",
+    "host": "bug0usy6grg9homkxqes-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
+  }
+}
